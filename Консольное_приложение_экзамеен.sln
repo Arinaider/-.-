@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Консольное_приложение_экзамеен", "Консольное_приложение_экзамеен\Консольное_приложение_экзамеен.csproj", "{15BF63DC-7309-424E-8A68-EE0F8F1AD35D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Библиотека_экзамен", "Библиотека_экзамен\Библиотека_экзамен.csproj", "{30FDED9B-F4DB-4153-9B22-FD5324C65788}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15BF63DC-7309-424E-8A68-EE0F8F1AD35D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BF63DC-7309-424E-8A68-EE0F8F1AD35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BF63DC-7309-424E-8A68-EE0F8F1AD35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BF63DC-7309-424E-8A68-EE0F8F1AD35D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30FDED9B-F4DB-4153-9B22-FD5324C65788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30FDED9B-F4DB-4153-9B22-FD5324C65788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30FDED9B-F4DB-4153-9B22-FD5324C65788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30FDED9B-F4DB-4153-9B22-FD5324C65788}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF921EC9-7F72-42F1-9B7F-F7C476AF0509}
+	EndGlobalSection
+EndGlobal

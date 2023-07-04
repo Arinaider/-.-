@@ -27,21 +27,21 @@ namespace Консольное_приложение_экзамеен
             //Вывод на экран информации о зданиях и квартирах
             //Первое здание. Вывод информации о здании и о жильцах
             South_Park.ShowAll();
-            Console.WriteLine("Жильцы в доме:");
+            Console.WriteLine("Жильцы, проживающие в доме:");
             foreach (var pers in South_Park.Apartments)
             {
                 pers.Show();
             }
             //Второе здание. Вывод информации о здании и о жильцах
             BorderLine.ShowAll();
-            Console.WriteLine("Жильцы в доме:");
+            Console.WriteLine("Жильцы, проживающие в доме:");
             foreach (var pers in BorderLine.Apartments)
             {
                 pers.Show();
             }
             //Третье здание. Вывод информации о здании и о жильцах
             Warhsawa.ShowAll();
-            Console.WriteLine("Жильцы в доме:");
+            Console.WriteLine("Жильцы, проживающие в доме:");
             foreach (var pers in Warhsawa.Apartments)
             {
                 pers.Show();
